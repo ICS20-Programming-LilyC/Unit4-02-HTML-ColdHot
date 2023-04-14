@@ -8,7 +8,7 @@
 
 function tempSent() {
 
- //declaring original variables & constant
+ //declaring original variables/constants
  let temperature = parseFloat(document.getElementById("temp-input").value);
  const TEMP_THRESHOLD = 15;
  let message = "";
@@ -18,11 +18,11 @@ function tempSent() {
    message = "This temperature would be considered hot. Prepare yourself for warmer weather!";
  }
 
- //else represents a temperature of less than 15 degrees
+ //else represents any temperature of less than 15 degrees
  else {
    message = "This temperature would be considered cold. Prepare yourself for cooler weather!";
  }
 
- //display the correct message to the screen
+ //display the correct results to the screen
  document.getElementById("results").innerHTML = message;
 }
