@@ -1,0 +1,29 @@
+/* Created by: Lily C
+* Created on: 04/14/2023
+* This CSS file defines the style for index.html
+* Unit4-01-HTML-GuessMyNumber
+*/
+
+body {
+  background-color: forestgreen;
+}
+
+h1 {
+  background-color: rgb(170 246 131);
+  color: hsl(42deg 100% 75%);
+  padding: 40px;
+  text-align: center;
+}
+
+h3 {
+  color: #ee6055;
+}
+
+p {
+  background-color: #aaF683;
+  color: #000;
+}
+
+div {
+  background-color: #aaF683;
+}
