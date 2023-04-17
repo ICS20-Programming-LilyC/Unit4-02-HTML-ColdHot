@@ -5,25 +5,25 @@
 */
 
 body {
-  background-color: forestgreen;
+  background-color: tan;
 }
 
 h1 {
-  background-color: rgb(170 246 131);
-  color: hsl(42deg 100% 75%);
+  background-color: rgb(127 85 57);
+  color: hsl(30deg 51% 80%);
   padding: 40px;
   text-align: center;
 }
 
 h3 {
-  color: #ee6055;
+  color: #9C6644;
 }
 
 p {
-  background-color: #aaF683;
+  background-color: #E6CCB2;
   color: #000;
 }
 
 div {
-  background-color: #aaF683;
+  background-color: #E6CCB2;
 }
